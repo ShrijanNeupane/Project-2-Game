@@ -8,10 +8,10 @@
 
 ## Instructions
 
-W - Jump ( Hold for longer jump, press when running towards a wall to wall jump) 
-A - Move left 
-D - Move right 
-Shift - Dash 
+* W - Jump ( Hold for longer jump, press when running towards a wall to wall jump) 
+* A - Move left 
+* D - Move right 
+* Shift - Dash 
 
 ## Objective 
 Defeat enemies and collect grimoires from chests to gain special abilities, traverse the map and defeat the boss to move to the next level
